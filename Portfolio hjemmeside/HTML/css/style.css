@@ -1,0 +1,41 @@
+head {
+    margin: 0;
+    padding: 0;
+}
+
+#seachtool body {
+    background-color: #dddddd;
+}
+
+
+header {
+    background-color: #868686;
+    height: 100px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+#logo {
+    background-color: #777777;
+    flex-basis: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    background-color: #ededed;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li:last {
+    list-style: none;
+    border-right: 1px solid;
+}

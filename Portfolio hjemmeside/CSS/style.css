@@ -1,0 +1,29 @@
+body {
+    background: https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/53226737_10218757354229598_8728625305100484608_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=NqaYp8YNyzgAX-gUOZd&_nc_ht=scontent-cph2-1.xx&oh=00_AT_W-kDwfbrL6TUchnBC-UgHzUEj97XQMMZ_a_j_8QncrA&oe=6277CB89
+    font-family Arial, Helvetica, sans-serif
+
+
+h1{
+    color: blue;
+
+}
+
+p {
+    color:#ffffff;
+
+}
+
+#box_1 {
+    background-color : #ffffff;
+    height : 20px;
+    width : 20px;
+
+}
+
+#box_2 {
+    background-color: burlywood;
+    width: 20px;
+    height: 20px;
+    
+}
+
